@@ -1,0 +1,10 @@
+{
+  "files": {
+    "front": ["Gruntfile.js", "dir:js", "dir:less", "dir:img", "dir:fonts"],
+    "lib": ["Gruntfile.js", "README.md", "dir:src"]
+  },
+  "addons": {
+    "front": ["npm", "grunt"],
+    "lib": ["npm", "grunt", "license"]
+  }
+}

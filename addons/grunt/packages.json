@@ -1,0 +1,6 @@
+{
+  "front": ["grunt-contrib-less", "grunt-contrib-watch",
+            "grunt-contrib-uglify", "grunt-asset-injector",
+            "less-plugin-clean-css"],
+  "lib": ["grunt-babel", "grunt-contrib-watch", "grunt-eslint"]
+}
